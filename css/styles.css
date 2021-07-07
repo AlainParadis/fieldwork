@@ -7,10 +7,33 @@ body {
   margin: 0 auto 0 auto;
   padding: 1rem;
 }
+a, a:link {
+  color: black;
+  text-decoration-color: blue;
+}
+
+a:visited {
+  color: rgba(60, 60, 60, 1);
+}
+a:hover {
+  color: lightgrey;
+}
+a:active {
+  color: orange;
+}
+a:focus {
+  outline: 2px solid black;
+}
 ul {
   list-style-type: none;
+  display: block;
+  margin: 2rem auto 0 auto;
+  text-align: center;
 }
 ul li {
   display: inline;
   padding: 0 2rem;
+}
+.current {
+  font-weight: bold;
 }
