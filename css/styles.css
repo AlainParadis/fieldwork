@@ -33,7 +33,10 @@ ul {
 ul li {
   display: inline;
   padding: 0 2rem;
+  border-right: 1px solid black;
 }
+
+ul li:last-of-type { border: 0; }
 .current {
   font-weight: bold;
 }
