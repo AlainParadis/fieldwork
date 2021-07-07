@@ -4,6 +4,7 @@ email: paradia@algonquincollege.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the Fieldwork & Professional Practice web site.
 baseurl: ""
+url: /fieldwork
 twitter_username: alainparadis
 github_username:  alainparadis
 
