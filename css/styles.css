@@ -11,7 +11,6 @@ a, a:link {
   color: black;
   text-decoration-color: blue;
 }
-
 a:visited {
   color: rgba(60, 60, 60, 1);
 }
@@ -24,19 +23,20 @@ a:active {
 a:focus {
   outline: 2px solid black;
 }
-ul {
+p { margin-top: 1rem; }
+ul.course-pages {
   list-style-type: none;
   display: block;
   margin: 2rem auto 0 auto;
   text-align: center;
 }
-ul li {
+ul.course-pages li {
   display: inline;
   padding: 0 2rem;
   border-right: 1px solid black;
 }
 
-ul li:last-of-type { border: 0; }
+ul.course-pages li:last-of-type { border: 0; }
 .current {
   font-weight: bold;
 }
