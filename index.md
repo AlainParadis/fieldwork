@@ -11,3 +11,5 @@ name: home
 {{ course-code }}
 
 {{ site.course-description }}
+
+Some more content
