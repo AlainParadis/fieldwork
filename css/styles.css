@@ -1,47 +1,64 @@
-body {
-  font-family: Arial, Helvetica, sans-serif;
-  border-color: grey;
-  border-style: solid;
-  border-width: 0 1px 0 1px;
-  max-width: 90rem;
-  margin: 0 auto 0 auto;
-  padding: 1rem;
-}
-a,
-a:link {
-  color: black;
-  text-decoration-color: blue;
-}
-a:visited {
-  color: rgba(60, 60, 60, 1);
-}
-a:hover {
-  color: lightgrey;
-}
-a:active {
-  color: orange;
-}
-a:focus {
-  outline: 2px solid black;
-}
-p {
-  margin-top: 1rem;
-}
-ul.course-pages {
-  list-style-type: none;
-  display: block;
-  margin: 2rem auto 0 auto;
-  text-align: center;
-}
-ul.course-pages li {
-  display: inline;
-  padding: 0 2rem;
-  border-right: 1px solid black;
+body
+{
+	font-family: Arial, Helvetica, sans-serif;
+	border-color: grey;
+	border-style: solid;
+	border-width: 0 1px 0 1px;
+	max-width: 90rem;
+	margin: 0 auto 0 auto;
+	padding: 1rem;
 }
 
-ul.course-pages li:last-of-type {
-  border: 0;
+a,
+a:link
+{
+	color: black;
+	text-decoration-color: blue;
 }
-.current {
-  font-weight: bold;
+
+a:visited { color: rgba(60, 60, 60, 1); }
+a:hover { color: lightgrey; }
+a:active { color: orange; }
+a:focus { outline: 2px solid black; }
+p { margin-top: 1rem; }
+
+ul.course-pages
+{
+	list-style-type: none;
+	display: block;
+	margin: 2rem auto 0 auto;
+	text-align: center;
+}
+
+ul.course-pages li
+{
+	display: inline;
+	padding: 0 2rem;
+	border-right: 1px solid black;
+}
+
+ul.course-pages li:last-of-type { border: 0; }
+.current { font-weight: bold; }
+
+ul.employers
+{
+	list-style-type: none;
+	border: 1px solid red;
+	margin-left: 0;
+	padding-left: 0;
+}
+
+ul.employers li.employerName {
+	color: red;
+}
+
+ul.employers li.contactName,
+ul.employers li.web-site,
+ul.employers li.email {
+	padding-left: 1rem;
+}
+
+ul.employers li.streetAddress {
+	padding-left: 1rem;
+	margin-bottom: 1rem;
 }
