@@ -43,13 +43,12 @@ ul.course-pages li:last-of-type { border: 0; }
 ul.employers
 {
 	list-style-type: none;
-	border: 1px solid red;
 	margin-left: 0;
 	padding-left: 0;
 }
 
 ul.employers li.employerName {
-	color: red;
+
 }
 
 ul.employers li.contactName,
@@ -60,5 +59,12 @@ ul.employers li.email {
 
 ul.employers li.streetAddress {
 	padding-left: 1rem;
+	margin-bottom: 1rem;
+}
+
+.columns3
+{
+	columns: 3 12rem;
+	margin-top: 1rem;
 	margin-bottom: 1rem;
 }
