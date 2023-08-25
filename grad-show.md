@@ -4,7 +4,7 @@ title: Grad Show
 ---
 ### The Event
 
-The Grad Show is usually held the last week of Fieldwork at the Horticulture Building at Lansdowne Park. That would be the week of April 22, 2022. Thursday the 21st would probably be a good date.
+The Grad Show is usually held the last week of Fieldwork. This year, that would be {{ site.data.course-info.grad-show-date }}.
 
 ### Fundraising
 
@@ -25,9 +25,9 @@ The Grad Show is a self-funded event organized by students in the framework of t
 
 The Student Association also contributes about $1000, or about $20 per graduating student. It could be more, it's up to you to enquire what funds are available from the S.A.
 
-#### Expenses
+<!-- #### Expenses
 
-The rental fee for the Horticulture Building is about $2500 for the evening. There are other event costs. We generally want to fundraise over $3000. It's a good idea to leave some money behind for potential future program project funding.
+The rental fee for the Horticulture Building is about $2500 for the evening. There are other event costs. We generally want to fundraise over $3000. It's a good idea to leave some money behind for potential future program project funding. -->
 
 ### Team Workings & Functions
 
@@ -49,7 +49,7 @@ Team leads are managers of the teams. They're not the ones doing all the work. T
 
 #### Web Site Team
 
-This team works with the Web Design teacher to build the web site for the graduating cohort. See last year's <a href="https://2021.grads.algonquindesign.ca" title="2021 Grad Web Site" target="_blank">grad site here</a>.
+This team works with the Web Design teacher to build the web site for the graduating cohort. See last year's <a href="https://2022.grads.algonquindesign.ca" title="2021 Grad Web Site" target="_blank">grad site here</a>.
 
 #### Branding Team
 

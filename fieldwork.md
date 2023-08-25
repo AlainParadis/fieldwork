@@ -60,7 +60,7 @@ It's up to you to develop your portfolio to apply for Fieldwork, though you will
 
   Are you a Canadian citizen going abroad? <a title="Read about the requirements" href="https://www.algonquincollege.com/international/" target="_blank" rel="noopener">Read about the requirements</a>.
 
-  Interested in a bursary for your fieldwork abroad? <a href="http://www.algonquincollege.com/international/study-and-work-abroad-2018/placement-abroad/" target="_blank">Read more...</a>
+  Interested in a bursary for your fieldwork abroad? <a href="https://www.algonquincollege.com/international/swa/awards/" target="_blank">Read more...</a>
 
 ##### International Students
 
